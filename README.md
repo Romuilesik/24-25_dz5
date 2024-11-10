@@ -26,9 +26,9 @@
    - In the HTML view that appears, locate the specific tags around the book titles.
    - Here are screenshots demonstrating the process:
 
-     ![Screenshot 1: Inspecting Elements](https://github.com/user-attachments/assets/c4625086-db0a-4932-b670-8fa74009db8c)
-
      ![Screenshot 2: Locating Title Tags](https://github.com/user-attachments/assets/cb3f2053-fddf-4091-9306-603ce479ed47)
+
+     ![Screenshot 1: Inspecting Elements](https://github.com/user-attachments/assets/c4625086-db0a-4932-b670-8fa74009db8c)
 
 ### dz.9 Instructions
 
